@@ -7,7 +7,7 @@
 
 <p align="center"><em>Naturalism in the Digital Age</em></p>
 
-Niltavi takes its name and colors from the niltava, a bird of the forest. We make digital things with clear forms, quiet colors, and room to breathe, drawing from natural history illustrations and woodcut prints.
+Niltavi [nɪlˈtɑːvi] takes its name and colors from the niltava, a bird of the forest. We make digital things with clear forms, quiet colors, and room to breathe, drawing from natural history illustrations and woodcut prints.
 
 We welcome the possibilities of technology and cherish the small things that ask to be felt firsthand: sunlight through leaves, a passing breeze, a bird alighting on a branch.
 
