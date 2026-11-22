@@ -14,4 +14,14 @@ We welcome the possibilities of technology and cherish the small things that ask
 - **[Niltavi UI](https://github.com/niltavi/niltavi-ui)** — A nature-inspired theme and component showcase for HeroUI. [Explore the UI →](https://ui.niltavi.com/)
 - **[Niltavi Logo](https://github.com/niltavi/niltavi-logo)** — Wordmarks and bird illustrations in SVG and PNG.
 
-[niltavi.com →](https://niltavi.com/)
+<br />
+
+<div>
+  <a href="AGENTS.md">For Agents</a>
+  <a href="https://niltavi.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niltavi/niltavi-logo/7e6aec65bcb3dd0023024d6eb5818e4556c5c16b/svg/niltavi-muted-dark.svg" />
+      <img src="https://raw.githubusercontent.com/niltavi/niltavi-logo/7e6aec65bcb3dd0023024d6eb5818e4556c5c16b/svg/niltavi-muted-light.svg" align="right" width="72" height="26" alt="Niltavi" />
+    </picture>
+  </a>
+</div>
